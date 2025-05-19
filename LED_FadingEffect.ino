@@ -4,4 +4,7 @@ void setup(){
   pinMode(ledPin, OUTPUT);
 }
 
+void loop(){
+  // Fade in
 
+}
