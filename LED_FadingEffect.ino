@@ -1,5 +1,7 @@
 int ledPin = 5;
 
-void set(){
-
+void setup(){
+  pinMode(ledPin, OUTPUT);
 }
+
+
