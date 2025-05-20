@@ -43,3 +43,28 @@ Real systems don’t just turn on — they breathe, they **transition**, they **
 - **LED cathode** → GND  
 
 ---
+
+## 👨‍💻 The Code
+
+![Coding](Coding.gif)
+
+```cpp
+int ledPin = 5;
+
+void setup(){
+  pinMode(ledPin, OUTPUT);
+}
+
+void loop(){
+  // Fade in
+  for (int fadeValue = 0; fadeValue <= 255; fadeValue += 5){
+    analogWrite(ledPin, fadeValue);
+    delay(30);
+  }
+
+  // Fade out
+  for (int fadeValue = 255; fadeValue >= 0; fadeValue -= 5){
+    analogWrite(ledPin, fadeValue);
+    delay(30);
+  }
+}
