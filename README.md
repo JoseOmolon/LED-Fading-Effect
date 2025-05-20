@@ -9,3 +9,5 @@
 ## 🧭 Why This Matters
 
 Real systems don’t just turn on — they breathe, they **transition**, they **modulate**. That’s PWM. You’re not coding light; you’re crafting it. This is how screens dim, motors hum, and LEDs dance.
+
+### ⚙️ What I Learned
