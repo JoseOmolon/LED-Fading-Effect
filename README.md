@@ -16,3 +16,5 @@ Real systems don’t just turn on — they breathe, they **transition**, they **
 - `for` loops shape time-based changes  
 - Small `delay()` steps = smooth animation  
 - Fading builds patience and precision — core traits in embedded design  
+
+---
