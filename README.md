@@ -19,3 +19,13 @@ Real systems don’t just turn on — they breathe, they **transition**, they **
 
 ---
 ## 🔩 Parts I Used
+
+![Components](Components.jpg)
+
+- 1x LED  
+- 1x 220Ω Resistor  
+- 1x Arduino Uno (or compatible)  
+- Jumper wires  
+- Breadboard  
+
+---
