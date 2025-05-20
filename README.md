@@ -68,3 +68,7 @@ void loop(){
     delay(30);
   }
 }
+```
+---
+## 🧠 The Concept
+This isn’t just brightness—it’s signal shaping. You’re teaching the microcontroller to breathe life into light. This is how you learn timing, modulation, and patience in one go.
