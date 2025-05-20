@@ -18,3 +18,4 @@ Real systems don’t just turn on — they breathe, they **transition**, they **
 - Fading builds patience and precision — core traits in embedded design  
 
 ---
+## 🔩 Parts I Used
