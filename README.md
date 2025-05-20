@@ -35,3 +35,11 @@ Real systems don’t just turn on — they breathe, they **transition**, they **
 ![Schematic](Schematic.png)
 
 ---
+## 🛠️ Wiring
+
+![Wiring](Wiring.gif)
+
+- **LED anode** → pin 5 via 220Ω resistor  
+- **LED cathode** → GND  
+
+---
