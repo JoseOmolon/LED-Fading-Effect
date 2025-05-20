@@ -31,3 +31,7 @@ Real systems don’t just turn on — they breathe, they **transition**, they **
 ---
 
 ## 📈 Schematic
+
+![Schematic](Schematic.png)
+
+---
