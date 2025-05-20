@@ -72,3 +72,13 @@ void loop(){
 ---
 ## 🧠 The Concept
 This isn’t just brightness—it’s signal shaping. You’re teaching the microcontroller to breathe life into light. This is how you learn timing, modulation, and patience in one go.
+
+---
+## 🎬 Final Result
+
+
+- LED fades in.
+- LED fades out.
+- No button. No nonsense. Just pulse-driven control.
+
+# 🎥 Full Video:
