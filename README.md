@@ -20,7 +20,7 @@ Real systems don’t just turn on — they breathe, they **transition**, they **
 ---
 ## 🔩 Parts I Used
 
-![Components](Components.jpg)
+![Components](ComponentParts.jpg)
 
 - 1x LED  
 - 1x 220Ω Resistor  
