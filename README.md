@@ -82,4 +82,4 @@ This isn’t just brightness—it’s signal shaping. You’re teaching the micr
 - LED fades out.
 - No button. No nonsense. Just pulse-driven control.
 
-# 🎥 Full Video:
+# 🎥 Full Video: https://youtu.be/K2Gba9SNvhc
