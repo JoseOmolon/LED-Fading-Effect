@@ -76,6 +76,7 @@ This isn’t just brightness—it’s signal shaping. You’re teaching the micr
 ---
 ## 🎬 Final Result
 
+![Result](Result.gif)
 
 - LED fades in.
 - LED fades out.
