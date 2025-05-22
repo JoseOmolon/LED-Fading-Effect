@@ -32,7 +32,7 @@ Real systems don’t just turn on — they breathe, they **transition**, they **
 
 ## 📈 Schematic
 
-
+![Schematics](Schematics.png)
 
 ---
 ## 🛠️ Wiring
