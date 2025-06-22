@@ -1,4 +1,4 @@
-# LED-Fading-Effect 1
+# LED-Fading-Effect
 
 ## Analog Output. Smooth Transitions. No Handholding.
 
